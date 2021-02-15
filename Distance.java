@@ -1,10 +1,13 @@
-//***************************************************************
+//*****************************************************************
 //  Steven Smail
 //  Distance.java
 //
-//  Demonstrates the use of the Math class to perform a calculation//  based on user input.
-//***************************************************************
-import java.util.Scanner;import java.text.DecimalFormat;
+//  Demonstrates the use of the Math class to perform a calculation
+//  based on user input.
+//*****************************************************************
+import java.util.Scanner;
+import java.text.DecimalFormat;
+
 public class Distance
 {
   public static void main(String[] args)
